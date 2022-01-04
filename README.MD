@@ -1,10 +1,18 @@
    	
 
-#                                           Kafka编程实战
+# Kafka编程实战
 
 
-     
-        
+**环境依赖**
+```
+1.Java：1.8
+2.Maven：3.6
+3.spring-Boot：2.5.3
+4.spring-kafka:2.7.2
+5.spring-data-jpa:2.6.2
+6.apache kafka-clients:2.7.1
+7.mysql-connector-java:8.0.22
+```    
            
            
 ## 实验目的
