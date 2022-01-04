@@ -22,7 +22,7 @@
 
 **测试命令**
 ```
-    curl -X POST http://172.18.1.151:8088/prod/insert -H 'Content-Type: application/json'  -d '{
+    curl -X POST http://172.18.1.150:8088/prod/insert -H 'Content-Type: application/json'  -d '{
         "id":100,
         "prodCode":"PUxxxx0006",
         "prodName":"pxxx06",
